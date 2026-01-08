@@ -18,13 +18,6 @@
 
 ###
 
-<h4 align="left">🚀 Professional Growth</h4>
-
-###
-
-<p align="left">Current Focus: Deep diving into modern web<br>Major: Software Engineering<br>Academic Focus: Committed to academic excellence and building a solid foundation in Software Engineering</p>
-
-###
 
 <h2 align="left">Technical Toolbox</h2>
 
