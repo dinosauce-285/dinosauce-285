@@ -1,6 +1,5 @@
-<h1 align="left">Hi there 👋</h1>
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&width=435&lines=Software+Engineering+Student;Fullstack+Developer;Building+EdTech+Platforms;VNUHCM-US" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=06B6D4&left=true&width=435&lines=Hi+there+👋" alt="Typing SVG" />
 </div>
 ###
 
