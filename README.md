@@ -1,6 +1,7 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=06B6D4&left=true&width=435&lines=Hi+there+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=36&pause=1000&color=06B6D4&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
+
 ###
 
 <p align="left">My name is Quoc Thanh and I'm a software developer, from Ho Chi Minh City, Vietnam. I am focusing on mastering professional tools to elevate my technical expertise.</p>
