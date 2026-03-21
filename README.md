@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">Technical Toolbox</h3>
+<h2 align="left">Technical Toolbox</h2>
 
 ###
 
-<h4 align="left">Programming Languages</h4>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">Frontend Development</h4>
+<h3 align="left">Frontend Development</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h4 align="left">Backend Development</h4>
+<h3 align="left">Backend Development</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h4 align="left">Database</h4>
+<h3 align="left">Database</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h4 align="left">Other</h4>
+<h3 align="left">Other</h3>
 
 ###
 
@@ -98,7 +98,7 @@
 
 ###
 
-<h3 align="left">Contact me via</h3>
+<h2 align="left">Contact me via</h2>
 
 ###
 
