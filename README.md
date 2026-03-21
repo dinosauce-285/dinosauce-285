@@ -1,5 +1,7 @@
-<h1 align="left">Hi there</h1>
-
+<h1 align="left">Hi there 👋</h1>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&width=435&lines=Software+Engineering+Student;Fullstack+Developer;Building+EdTech+Platforms;VNUHCM-US" alt="Typing SVG" />
+</div>
 ###
 
 <p align="left">My name is Quoc Thanh and I'm a software developer, from Ho Chi Minh City, Vietnam. I am focusing on mastering professional tools to elevate my technical expertise.</p>
